@@ -130,7 +130,7 @@ export default function Sidebar() {
                   minWidth: 0,
                   mr: open ? 3 : "auto",
                   justifyContent: "center",
-                  color:'white'
+              
                 }}
               >
                 <SpaceDashboardTwoToneIcon />
@@ -161,7 +161,7 @@ export default function Sidebar() {
                   minWidth: 0,
                   mr: open ? 3 : "auto",
                   justifyContent: "center",
-                  color:'white'
+                
                 }}
               >
                 <ProductionQuantityLimitsIcon />
@@ -187,7 +187,7 @@ export default function Sidebar() {
                 minHeight: 48,
                 justifyContent: open ? "initial" : "center",
                 px: 2.5,
-                color:'white'
+               
               }}
             >
               <ListItemIcon
@@ -195,7 +195,7 @@ export default function Sidebar() {
                   minWidth: 0,
                   mr: open ? 3 : "auto",
                   justifyContent: "center",
-                  color:'white'
+                 
                 }}
               >
                 <Groups2TwoToneIcon />
@@ -223,7 +223,7 @@ export default function Sidebar() {
                   minWidth: 0,
                   mr: open ? 3 : "auto",
                   justifyContent: "center",
-                  color:'white'
+               
                 }}
               >
                 <InboxIcon />
@@ -245,7 +245,7 @@ export default function Sidebar() {
                 minHeight: 48,
                 justifyContent: open ? "initial" : "center",
                 px: 2.5,
-                color:'white'
+             
               }}
             >
               <ListItemIcon
@@ -253,7 +253,7 @@ export default function Sidebar() {
                   minWidth: 0,
                   mr: open ? 3 : "auto",
                   justifyContent: "center",
-                  color:'white'
+                  
                 }}
               >
                 <PercentIcon />
@@ -276,7 +276,7 @@ export default function Sidebar() {
                 minHeight: 48,
                 justifyContent: open ? "initial" : "center",
                 px: 2.5,
-                color:'white'
+             
               }}
             >
               <ListItemIcon
@@ -284,7 +284,7 @@ export default function Sidebar() {
                   minWidth: 0,
                   mr: open ? 3 : "auto",
                   justifyContent: "center",
-                  color:'white'
+                
                 }}
               >
                 <AdminPanelSettingsIcon  />
