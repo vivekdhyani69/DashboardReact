@@ -1,0 +1,4 @@
+body .css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    background-color: #062e6f !important; /* Add !important to ensure the rule takes precedence */
+    color:white !important
+}
