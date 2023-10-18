@@ -15,7 +15,7 @@ import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import Groups2TwoToneIcon from "@mui/icons-material/Groups2TwoTone";
 import SpaceDashboardTwoToneIcon from "@mui/icons-material/SpaceDashboardTwoTone";
-import '../index.css'
+import '../index.css' 
 import { useNavigate } from "react-router-dom";
 import DashboardIcon from '@mui/icons-material/Dashboard';
 import ProductionQuantityLimitsIcon from '@mui/icons-material/ProductionQuantityLimits';
@@ -80,7 +80,7 @@ export default function Sidebar() {
 
   const theme = useTheme();
 
-  const [open, setOpen] = React.useState(true);
+  const [open, setOpen] = React.useState(false);
 
 
   const navigate = useNavigate();
